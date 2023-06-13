@@ -1,0 +1,10 @@
+* utm
+
+Lisp library for converting between latitude/longitude and UTM.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jl2/utm.git   |
+| commit  | 82d2684  |
+| systems | utm |
+|---------+-------------------------------------------|
+
