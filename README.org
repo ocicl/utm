@@ -4,6 +4,6 @@ Lisp library for converting between latitude/longitude and UTM.
 
 |---------+------------------------------------|
 | source  | git:https://github.com/jl2/utm.git |
-| commit  | 64360bd                            |
+| commit  | e8b1317                            |
 | systems | utm                                |
 |---------+------------------------------------|
